@@ -233,11 +233,11 @@ me.say_hi()
 
 <div align="center">
 
-<a href="https://github.com/hafiztayyabzia">
+<a href="https://github.com/Hafiz-tayyab-23">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=hafiztayyabzia&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=1F2937&icon_color=3B82F6&title_color=3B82F6&text_color=9CA3AF&hide_border=false&count_private=true&include_all_commits=true" />
 </a>
 &nbsp;
-<a href="https://github.com/hafiztayyabzia">
+<a href="https://github.com/Hafiz-tayyab-23">
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafiztayyabzia&layout=compact&theme=github_dark&bg_color=0d1117&border_color=1F2937&title_color=3B82F6&text_color=9CA3AF&hide_border=false&langs_count=8" />
 </a>
 
