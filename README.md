@@ -244,14 +244,14 @@ me.say_hi()
 <br/><br/>
 
 <!-- Streak Stats -->
-<a href="https://github.com/hafiztayyabzia">
+<a href="https://github.com/Hafiz-tayyab-23">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hafiztayyabzia&theme=github-dark-blue&background=0D1117&border=1F2937&ring=3B82F6&fire=8B5CF6&currStreakLabel=3B82F6&sideLabels=9CA3AF&dates=6B7280&currStreakNum=FFFFFF&sideNums=FFFFFF" />
 </a>
 
 <br/><br/>
 
 <!-- Activity Graph -->
-<a href="https://github.com/hafiztayyabzia">
+<a href="https://github.com/Hafiz-tayyab-23">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hafiztayyabzia&theme=react-dark&bg_color=0D1117&color=3B82F6&line=8B5CF6&point=3B82F6&area=true&area_color=3B82F6&hide_border=true" width="95%"/>
 </a>
 
@@ -333,12 +333,6 @@ me.say_hi()
 
 <!-- Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-```
-
-✅ Certifications table — clean and scannable
-✅ Connect section with all social links
-✅ Snake contribution animation
-✅ Gradient footer wave
 ```
 
 Tell me what's next — back to the portfolio or more GitHub customization!
