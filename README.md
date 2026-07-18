@@ -53,6 +53,7 @@ class TayyabZia:
 
 me = TayyabZia()
 me.say_hi()
+```
 
 <!-- Highlights --><div align="center">
 ⚡ Highlights
