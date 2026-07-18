@@ -449,12 +449,12 @@ GStreamer + V4L2 pipelines for surveillance simulation.
 <tr>
 <td align="center">📚</td>
 <td><b>HSSC Pre-Engineering</b> — Army Public School</td>
-<td align="right"><code>1003/1100 · 91.2%</code></td>
+<td align="right"><code>91%</code></td>
 </tr>
 <tr>
 <td align="center">🏆</td>
 <td><b>Matriculation Science</b> — 501 Model School <i>(1st Position)</i></td>
-<td align="right"><code>1058/1100 · 96.2%</code></td>
+<td align="right"><code>96%</code></td>
 </tr>
 </table>
 
