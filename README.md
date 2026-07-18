@@ -110,7 +110,7 @@ My most impactful work was at **NASTP** (Pakistan's national aerospace tech park
 <br/><br/>
 <sub><b>Academic Excellence</b></sub>
 <br/>
-<sub>1058/1100 SSC · 1st Position<br/>1003/1100 HSSC</sub>
+<sub>96% SSC · 1st Position<br/>91% HSSC</sub>
 <br/><br/>
 </td>
 
@@ -449,12 +449,12 @@ GStreamer + V4L2 pipelines for surveillance simulation.
 <tr>
 <td align="center">📚</td>
 <td><b>HSSC Pre-Engineering</b> — Army Public School</td>
-<td align="right"><code>91%</code></td>
+<td align="right"><code>2022-2024</code></td>
 </tr>
 <tr>
 <td align="center">🏆</td>
 <td><b>Matriculation Science</b> — 501 Model School <i>(1st Position)</i></td>
-<td align="right"><code>96%</code></td>
+<td align="right"><code>2020-2022</code></td>
 </tr>
 </table>
 
@@ -561,4 +561,3 @@ GStreamer + V4L2 pipelines for surveillance simulation.
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:8B5CF6,100:EC4899&height=80&section=footer" width="100%"/>
-```
