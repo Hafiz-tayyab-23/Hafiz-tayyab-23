@@ -365,14 +365,6 @@ GStreamer + V4L2 pipelines for surveillance simulation.
 
 <br/>
 
-<a href="https://github.com/Hafiz-tayyab-23">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Hafiz-tayyab-23&show_icons=true&bg_color=111111&border_color=1F2937&icon_color=3B82F6&title_color=FFFFFF&text_color=9CA3AF&hide_border=false&count_private=true&include_all_commits=true&ring_color=3B82F6" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/Hafiz-tayyab-23">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hafiz-tayyab-23&layout=compact&bg_color=111111&border_color=1F2937&title_color=FFFFFF&text_color=9CA3AF&hide_border=false&langs_count=8" />
-</a>
-
 <br/><br/>
 
 <a href="https://github.com/Hafiz-tayyab-23">
