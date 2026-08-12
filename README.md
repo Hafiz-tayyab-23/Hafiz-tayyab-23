@@ -16,13 +16,13 @@
 
 <br/>
 
-<a href="https://tayyabzia.dev">
+<a href="https://hafiztayyab.vercel.app">
   <img src="https://img.shields.io/badge/🌐_Portfolio-111111?style=flat-square"/>
 </a>&nbsp;
-<a href="https://www.linkedin.com/in/hafiz-muhammad-tayyab-zia-972a82323">
+<a href="https://www.linkedin.com/in/hafizmtayyabzia">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>&nbsp;
-<a href="mailto:hafiztayyab23@gmail.com">
+<a href="mailto:hafizmtayyabzia@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 </a>&nbsp;
 <img src="https://komarev.com/ghpvc/?username=Hafiz-tayyab-23&style=flat-square&color=3B82F6&label=visitors"/>
@@ -490,7 +490,7 @@ GStreamer + V4L2 pipelines for surveillance simulation.
 
 <br/>
 
-<sub>📄 30+ certifications total — <a href="https://www.linkedin.com/in/hafiz-muhammad-tayyab-zia-972a82323">View all on LinkedIn →</a></sub>
+<sub>📄 30+ certifications total — <a href="https://www.linkedin.com/in/hafizmtayyabzia">View all on LinkedIn →</a></sub>
 
 </div>
 
@@ -508,13 +508,13 @@ GStreamer + V4L2 pipelines for surveillance simulation.
 
 <br/>
 
-<a href="https://tayyabzia.dev">
+<a href="https://hafiztayyab.vercel.app">
   <img src="https://img.shields.io/badge/🌐_Portfolio-111111?style=for-the-badge"/>
 </a>&nbsp;
-<a href="https://linkedin.com/in/hafiz-muhammad-tayyab-zia">
+<a href="https://linkedin.com/in/hafizmtayyabzia">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>&nbsp;
-<a href="mailto:hafiztayyab23@gmail.com">
+<a href="mailto:hafizmtayyabzia@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>&nbsp;
 <a href="https://github.com/Hafiz-tayyab-23">
