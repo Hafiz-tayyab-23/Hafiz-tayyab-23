@@ -384,7 +384,7 @@ GStreamer + V4L2 pipelines for surveillance simulation.
 <br/><br/>
 
 <!-- Contribution Heatmap — Blue-to-Purple gradient matching the graph above -->
-<img src="https://ghchart.rshah.org/8B5CF6/Hafiz-tayyab-23" alt="Contribution Chart" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hafiz-tayyab-23&bg_color=111111&color=8B5CF6&line=8B5CF6&point=EC4899&area=true&area_color=8B5CF6&hide_border=true&custom_title=Contribution%20Intensity&radius=6&title_color=FFFFFF&theme=react-dark" width="95%" alt="Contribution Intensity"/>
 
 </div>
 
