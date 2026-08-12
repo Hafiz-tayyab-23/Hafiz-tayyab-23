@@ -355,25 +355,37 @@ GStreamer + V4L2 pipelines for surveillance simulation.
 
 <br/>
 
-<!-- Row 1: Metrics stats using different service -->
-<img src="https://github-readme-stats-git-master-vercel-community.vercel.app/api?username=Hafiz-tayyab-23&show_icons=true&theme=tokyonight&bg_color=111111&hide_border=true&icon_color=3B82F6&title_color=FFFFFF&text_color=9CA3AF&count_private=true&include_all_commits=true" height="170" alt="GitHub Stats" />
-&nbsp;
-<img src="https://github-readme-stats-git-master-vercel-community.vercel.app/api/top-langs/?username=Hafiz-tayyab-23&layout=compact&theme=tokyonight&bg_color=111111&hide_border=true&title_color=FFFFFF&text_color=9CA3AF&langs_count=8" height="170" alt="Top Languages" />
+<!-- Activity Graph — CONFIRMED WORKING for you -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hafiz-tayyab-23&bg_color=111111&color=9CA3AF&line=3B82F6&point=8B5CF6&area=true&area_color=3B82F6&hide_border=true&custom_title=Contribution%20Activity&radius=6&title_color=FFFFFF" width="95%" alt="Activity Graph"/>
 
 <br/><br/>
 
-<!-- Activity graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hafiz-tayyab-23&bg_color=111111&color=9CA3AF&line=3B82F6&point=8B5CF6&area=true&area_color=3B82F6&hide_border=true&custom_title=Contribution%20Graph&radius=6&title_color=FFFFFF" width="95%" alt="Activity Graph"/>
-
-<br/><br/>
-
-<!-- ALWAYS-WORKING contribution heatmap -->
+<!-- Contribution Heatmap — CONFIRMED WORKING for you -->
 <img src="https://ghchart.rshah.org/3B82F6/Hafiz-tayyab-23" alt="Contribution Chart" width="95%"/>
 
 <br/><br/>
 
-<!-- Trophy showcase -->
-<img src="https://github-profile-trophy.vercel.app/?username=Hafiz-tayyab-23&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" width="95%"/>
+<!-- Manual stats table — 100% reliable, no external service -->
+<table>
+<tr>
+<td align="center" width="150">
+<b>🔥 Current Streak</b><br/>
+<sub>Check profile</sub>
+</td>
+<td align="center" width="150">
+<b>📦 Repositories</b><br/>
+<sub><a href="https://github.com/Hafiz-tayyab-23?tab=repositories">View all →</a></sub>
+</td>
+<td align="center" width="150">
+<b>⭐ Top Language</b><br/>
+<sub>Python · C++ · Java</sub>
+</td>
+<td align="center" width="150">
+<b>🎯 Focus</b><br/>
+<sub>AI · CV · Full-Stack</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
