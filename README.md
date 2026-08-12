@@ -356,27 +356,6 @@ GStreamer + V4L2 pipelines for surveillance simulation.
 <br/>
 
 <!-- Custom Streak Card — Built with Shields.io (always works) -->
-<table>
-<tr>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/🔥_Current_Streak-Active-8B5CF6?style=for-the-badge&labelColor=111111"/>
-<br/><br/>
-<sub>Consistent daily contributions</sub>
-</td>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/📅_Contributions-View_Profile-3B82F6?style=for-the-badge&labelColor=111111"/>
-<br/><br/>
-<sub><a href="https://github.com/Hafiz-tayyab-23">Live activity below ↓</a></sub>
-</td>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/⭐_Focus_Area-AI_%26_Systems-EC4899?style=for-the-badge&labelColor=111111"/>
-<br/><br/>
-<sub>Computer Vision · Full-Stack</sub>
-</td>
-</tr>
-</table>
-
-<br/><br/>
 
 <!-- Activity Graph — DO NOT EDIT (working perfectly) -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hafiz-tayyab-23&bg_color=111111&color=9CA3AF&line=3B82F6&point=8B5CF6&area=true&area_color=3B82F6&hide_border=true&custom_title=Contribution%20Graph&radius=6&title_color=FFFFFF" width="95%"/>
