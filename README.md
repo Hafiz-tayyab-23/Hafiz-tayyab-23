@@ -355,37 +355,36 @@ GStreamer + V4L2 pipelines for surveillance simulation.
 
 <br/>
 
-<!-- Activity Graph — CONFIRMED WORKING for you -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hafiz-tayyab-23&bg_color=111111&color=9CA3AF&line=3B82F6&point=8B5CF6&area=true&area_color=3B82F6&hide_border=true&custom_title=Contribution%20Activity&radius=6&title_color=FFFFFF" width="95%" alt="Activity Graph"/>
-
-<br/><br/>
-
-<!-- Contribution Heatmap — CONFIRMED WORKING for you -->
-<img src="https://ghchart.rshah.org/3B82F6/Hafiz-tayyab-23" alt="Contribution Chart" width="95%"/>
-
-<br/><br/>
-
-<!-- Manual stats table — 100% reliable, no external service -->
+<!-- Custom Streak Card — Built with Shields.io (always works) -->
 <table>
 <tr>
-<td align="center" width="150">
-<b>🔥 Current Streak</b><br/>
-<sub>Check profile</sub>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/🔥_Current_Streak-Active-8B5CF6?style=for-the-badge&labelColor=111111"/>
+<br/><br/>
+<sub>Consistent daily contributions</sub>
 </td>
-<td align="center" width="150">
-<b>📦 Repositories</b><br/>
-<sub><a href="https://github.com/Hafiz-tayyab-23?tab=repositories">View all →</a></sub>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/📅_Contributions-View_Profile-3B82F6?style=for-the-badge&labelColor=111111"/>
+<br/><br/>
+<sub><a href="https://github.com/Hafiz-tayyab-23">Live activity below ↓</a></sub>
 </td>
-<td align="center" width="150">
-<b>⭐ Top Language</b><br/>
-<sub>Python · C++ · Java</sub>
-</td>
-<td align="center" width="150">
-<b>🎯 Focus</b><br/>
-<sub>AI · CV · Full-Stack</sub>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/⭐_Focus_Area-AI_%26_Systems-EC4899?style=for-the-badge&labelColor=111111"/>
+<br/><br/>
+<sub>Computer Vision · Full-Stack</sub>
 </td>
 </tr>
 </table>
+
+<br/><br/>
+
+<!-- Activity Graph — DO NOT EDIT (working perfectly) -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hafiz-tayyab-23&bg_color=111111&color=9CA3AF&line=3B82F6&point=8B5CF6&area=true&area_color=3B82F6&hide_border=true&custom_title=Contribution%20Graph&radius=6&title_color=FFFFFF" width="95%"/>
+
+<br/><br/>
+
+<!-- Contribution Heatmap — Blue-to-Purple gradient matching the graph above -->
+<img src="https://ghchart.rshah.org/8B5CF6/Hafiz-tayyab-23" alt="Contribution Chart" width="95%"/>
 
 </div>
 
