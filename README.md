@@ -355,33 +355,25 @@ GStreamer + V4L2 pipelines for surveillance simulation.
 
 <br/>
 
-<!-- Row 1: Stats + Top Languages -->
-<a href="https://github.com/Hafiz-tayyab-23">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Hafiz-tayyab-23&show_icons=true&bg_color=111111&border_color=1F2937&icon_color=3B82F6&title_color=FFFFFF&text_color=9CA3AF&hide_border=false&count_private=true&include_all_commits=true&ring_color=3B82F6&cache_seconds=1800" alt="GitHub Stats" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/Hafiz-tayyab-23">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hafiz-tayyab-23&layout=compact&bg_color=111111&border_color=1F2937&title_color=FFFFFF&text_color=9CA3AF&hide_border=false&langs_count=8&cache_seconds=1800" alt="Top Languages" />
-</a>
+<!-- Row 1: Metrics stats using different service -->
+<img src="https://github-readme-stats-git-master-vercel-community.vercel.app/api?username=Hafiz-tayyab-23&show_icons=true&theme=tokyonight&bg_color=111111&hide_border=true&icon_color=3B82F6&title_color=FFFFFF&text_color=9CA3AF&count_private=true&include_all_commits=true" height="170" alt="GitHub Stats" />
+&nbsp;
+<img src="https://github-readme-stats-git-master-vercel-community.vercel.app/api/top-langs/?username=Hafiz-tayyab-23&layout=compact&theme=tokyonight&bg_color=111111&hide_border=true&title_color=FFFFFF&text_color=9CA3AF&langs_count=8" height="170" alt="Top Languages" />
 
 <br/><br/>
 
-<!-- Row 2: Streak Stats (tokyonight theme is more reliable) -->
-<a href="https://github.com/Hafiz-tayyab-23">
-  <img src="https://streak-stats.demolab.com?user=Hafiz-tayyab-23&theme=tokyonight&background=111111&border=1F2937&ring=3B82F6&fire=8B5CF6&currStreakLabel=3B82F6&sideLabels=9CA3AF&dates=6B7280&currStreakNum=FFFFFF&sideNums=FFFFFF&hide_border=false" alt="GitHub Streak" />
-</a>
+<!-- Activity graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hafiz-tayyab-23&bg_color=111111&color=9CA3AF&line=3B82F6&point=8B5CF6&area=true&area_color=3B82F6&hide_border=true&custom_title=Contribution%20Graph&radius=6&title_color=FFFFFF" width="95%" alt="Activity Graph"/>
 
 <br/><br/>
 
-<!-- Row 3: Activity Graph -->
-<a href="https://github.com/Hafiz-tayyab-23">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hafiz-tayyab-23&bg_color=111111&color=9CA3AF&line=3B82F6&point=8B5CF6&area=true&area_color=3B82F6&hide_border=true&custom_title=Contribution%20Graph&radius=6&title_color=FFFFFF" width="95%" alt="Activity Graph"/>
-</a>
-
-<br/><br/>
-
-<!-- Row 4: Contribution Heatmap (always-working fallback) -->
+<!-- ALWAYS-WORKING contribution heatmap -->
 <img src="https://ghchart.rshah.org/3B82F6/Hafiz-tayyab-23" alt="Contribution Chart" width="95%"/>
+
+<br/><br/>
+
+<!-- Trophy showcase -->
+<img src="https://github-profile-trophy.vercel.app/?username=Hafiz-tayyab-23&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&column=7" alt="Trophies" width="95%"/>
 
 </div>
 
@@ -390,6 +382,7 @@ GStreamer + V4L2 pipelines for surveillance simulation.
 ---
 
 <br/>
+
 <!-- ═══════════════════ EXPERIENCE CARD ═══════════════════ -->
 
 <div align="center">
