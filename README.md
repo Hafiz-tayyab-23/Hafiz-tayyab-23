@@ -104,16 +104,6 @@ My most impactful work was at **NASTP** (Pakistan's national aerospace tech park
 <br/><br/>
 </td>
 
-<td align="center" width="200">
-<br/>
-<img src="https://img.shields.io/badge/🏆-96.2%25-F59E0B?style=for-the-badge&labelColor=111111"/>
-<br/><br/>
-<sub><b>Academic Excellence</b></sub>
-<br/>
-<sub>96% SSC · 1st Position<br/>91% HSSC</sub>
-<br/><br/>
-</td>
-
 </tr>
 </table>
 
@@ -439,7 +429,7 @@ GStreamer + V4L2 pipelines for surveillance simulation.
 </tr>
 <tr>
 <td align="center">🏆</td>
-<td><b>Matriculation Science</b> — 501 Model School <i>(1st Position)</i></td>
+<td><b>Matriculation Science</b> — 501 Model School</td>
 <td align="right"><code>2020-2022</code></td>
 </tr>
 </table>
