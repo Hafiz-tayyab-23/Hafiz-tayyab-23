@@ -59,7 +59,7 @@
 
 **I build AI-powered systems, computer vision applications, and scalable software.**
 
-My most impactful work was at **NASTP** (Pakistan's national aerospace tech park) where I built an **AI facial recognition attendance system** and **real-time video streaming infrastructure** for defense-grade environments — as a **1st-year student**.
+My most impactful work was at **NASTP** (Pakistan's national aerospace tech park) where I built an **AI facial recognition attendance system** and **real-time video streaming infrastructure** for defense-grade environments - as a **1st-year student**.
 
 </td>
 </tr>
@@ -355,14 +355,14 @@ GStreamer + V4L2 pipelines for surveillance simulation.
 
 <br/>
 
-<!-- Custom Streak Card — Built with Shields.io (always works) -->
+<!-- Custom Streak Card - Built with Shields.io (always works) -->
 
-<!-- Activity Graph — DO NOT EDIT (working perfectly) -->
+<!-- Activity Graph - DO NOT EDIT (working perfectly) -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hafiz-tayyab-23&bg_color=111111&color=9CA3AF&line=3B82F6&point=8B5CF6&area=true&area_color=3B82F6&hide_border=true&custom_title=Contribution%20Graph&radius=6&title_color=FFFFFF" width="95%"/>
 
 <br/><br/>
 
-<!-- Contribution Heatmap — Blue-to-Purple gradient matching the graph above -->
+<!-- Contribution Heatmap - Blue-to-Purple gradient matching the graph above -->
 <img src="https://ghchart.rshah.org/3B82F6/Hafiz-tayyab-23" alt="Contribution Chart" width="95%"/>
 
 </div>
@@ -383,24 +383,19 @@ GStreamer + V4L2 pipelines for surveillance simulation.
 
 <table>
 <tr>
-<td align="center" width="80">🔵</td>
-<td><b>AI/ML Intern</b> — Zenvyro Labs (Pvt) Ltd.</td>
-<td align="right"><code>Jul 2026 — Present</code></td>
-</tr>
-<tr>
 <td align="center">🟢</td>
-<td><b>Software Engineer Intern</b> — NASTP ✦</td>
-<td align="right"><code>Jun 2025 — Aug 2025</code></td>
+<td><b>Software Engineer Intern</b> - NASTP ✦</td>
+<td align="right"><code>Jun 2025 - Aug 2025</code></td>
 </tr>
 <tr>
 <td align="center">🔵</td>
-<td><b>Frontend Dev Intern</b> — Nexus AI Digital (London 🇬🇧)</td>
-<td align="right"><code>Sep 2025 — Oct 2025</code></td>
+<td><b>Frontend Dev Intern</b> - Nexus AI Digital (London 🇬🇧)</td>
+<td align="right"><code>Sep 2025 - Oct 2025</code></td>
 </tr>
 <tr>
 <td align="center">🟢</td>
-<td><b>Frontend Dev Intern</b> — Elevvo Pathways (Cairo 🇪🇬)</td>
-<td align="right"><code>Aug 2025 — Sep 2025</code></td>
+<td><b>Frontend Dev Intern</b> - Elevvo Pathways (Cairo 🇪🇬)</td>
+<td align="right"><code>Aug 2025 - Sep 2025</code></td>
 </tr>
 </table>
 
@@ -423,17 +418,17 @@ GStreamer + V4L2 pipelines for surveillance simulation.
 <table>
 <tr>
 <td align="center" width="80">🎓</td>
-<td><b>B.E. Software Engineering</b> — NUST</td>
-<td align="right"><code>2024 — 2028</code></td>
+<td><b>B.E. Software Engineering</b> - NUST</td>
+<td align="right"><code>2024 - 2028</code></td>
 </tr>
 <tr>
 <td align="center">📚</td>
-<td><b>HSSC Pre-Engineering</b> — Army Public School</td>
+<td><b>HSSC Pre-Engineering</b> - Army Public School</td>
 <td align="right"><code>2022-2024</code></td>
 </tr>
 <tr>
 <td align="center">🏆</td>
-<td><b>Matriculation Science</b> — 501 Model School</td>
+<td><b>Matriculation Science</b> - 501 Model School</td>
 <td align="right"><code>2020-2022</code></td>
 </tr>
 </table>
@@ -494,7 +489,7 @@ GStreamer + V4L2 pipelines for surveillance simulation.
 
 <br/>
 
-<sub>📄 30+ certifications total — <a href="https://www.linkedin.com/in/hafizmtayyabzia">View all on LinkedIn →</a></sub>
+<sub>📄 30+ certifications total - <a href="https://www.linkedin.com/in/hafizmtayyabzia">View all on LinkedIn →</a></sub>
 
 </div>
 
@@ -527,7 +522,7 @@ GStreamer + V4L2 pipelines for surveillance simulation.
 
 <br/><br/>
 
-> *"Building technology that solves real problems — starting from Pakistan, reaching the world."*
+> *"Building technology that solves real problems - starting from Pakistan, reaching the world."*
 
 <br/>
 
