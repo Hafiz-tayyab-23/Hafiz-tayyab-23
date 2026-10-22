@@ -347,32 +347,6 @@ GStreamer + V4L2 pipelines for surveillance simulation.
 
 <br/>
 
-<!-- ═══════════════════ STATS CARDS ═══════════════════ -->
-
-<div align="center">
-
-### 📊 &nbsp;GitHub Analytics
-
-<br/>
-
-<!-- Custom Streak Card - Built with Shields.io (always works) -->
-
-<!-- Activity Graph - DO NOT EDIT (working perfectly) -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hafiz-tayyab-23&bg_color=111111&color=9CA3AF&line=3B82F6&point=8B5CF6&area=true&area_color=3B82F6&hide_border=true&custom_title=Contribution%20Graph&radius=6&title_color=FFFFFF" width="95%"/>
-
-<br/><br/>
-
-<!-- Contribution Heatmap - Blue-to-Purple gradient matching the graph above -->
-<img src="https://ghchart.rshah.org/3B82F6/Hafiz-tayyab-23" alt="Contribution Chart" width="95%"/>
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
 <!-- ═══════════════════ EXPERIENCE CARD ═══════════════════ -->
 
 <div align="center">
